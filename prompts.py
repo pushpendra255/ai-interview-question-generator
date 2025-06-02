@@ -2,7 +2,7 @@
 from groq import Groq
 
 # Replace with your actual Groq API key
-client = Groq(api_key="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")
+client = Groq(api_key="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")
 
 def generate_questions(tech_list):
     all_questions = {}
