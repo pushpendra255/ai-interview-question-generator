@@ -1,4 +1,8 @@
-# 🤖 TalentScout – AI Hiring Assistant
+ 🤖 TalentScout – AI Hiring Assistant
+
+
+Chech the app here -----
+https://ai-interview-question-generator.streamlit.app/
 
 TalentScout is an intelligent AI-powered hiring assistant built using **Streamlit** and **Groq's LLaMA 3** models. It helps HR teams automate technical screening by asking role-specific questions and providing expert-grade answers.
 
